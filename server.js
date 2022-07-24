@@ -1,33 +1,26 @@
-import cors from 'cors';
 const express = require('express')
 const app = express()
 const PORT = 8000
-
-
 
 const learningDisabilities = {
     'adhd': {
         'disability': 'ADHD',
         'explanation': 'n/a',
-        'signs': 'n/a',
         'accommodation': 'Fidget Toys'
     },    
     'dyslexia': {
         'disability': 'Dyslexia',
         'explanation': 'n/a',
-        'signs': 'n/a',
         'accommodation': 'Unknown'
     },
     'dyscalculia': {
         'disability': 'Dyscalculia',     
         'explanation': 'n/a',
-        'signs': 'n/a',
         'accommodation': 'Unknown'
     },
     'unknown': {
         'disability': 'Unknown',     
         'explanation': 'Unknown',
-        'signs': 'n/a',
         'accommodation': 'Unknown'
     }
 }
