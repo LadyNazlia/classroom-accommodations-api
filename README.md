@@ -2,9 +2,11 @@
 
 This is an API I am creating that will provide the following information:
 
-~Learning disability's name
-~Explanations of learning diability
-~Recommended accommodations for learning disability
+<li>
+  <ul>Learning disability's name</ul>
+  <ul>Explanations of learning diability</ul>
+  <ul>Recommended accommodations for learning disability</ul>
+</li>
 
 This API is free to use through Heroku.
 
