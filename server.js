@@ -6,21 +6,25 @@ const learningDisabilities = {
     'adhd': {
         'disability': 'ADHD',
         'explanation': 'n/a',
+        'signs': 'n/a',
         'accommodation': 'Fidget Toys'
     },    
     'dyslexia': {
         'disability': 'Dyslexia',
         'explanation': 'n/a',
+        'signs': 'n/a',
         'accommodation': 'Unknown'
     },
     'dyscalculia': {
         'disability': 'Dyscalculia',     
         'explanation': 'n/a',
+        'signs': 'n/a',
         'accommodation': 'Unknown'
     },
     'unknown': {
         'disability': 'Unknown',     
         'explanation': 'Unknown',
+        'signs': 'n/a',
         'accommodation': 'Unknown'
     }
 }
