@@ -16,6 +16,8 @@ const learningDisabilities = {
     'dyslexia': {
         'disability': 'Dyslexia',
         'explanation': 'n/a',
+        'important': '',
+        'trouble areas': '',
         'accommodation': 'Unknown'
     },
     'dyscalculia': {
