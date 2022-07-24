@@ -7,9 +7,11 @@ app.use(cors())
 
 const learningDisabilities = {
     'adhd': {
-        'disability': 'ADHD',
-        'explanation': 'n/a',
-        'accommodation': 'Fidget Toys'
+        'disability': 'ADHD - Attention-Deficit Hyperactivity Disorder',
+        'explanation': 'ADHD is a common condition that makes it hard to focus, keep still, and think before acting. Some people with ADHD mainly have trouble with focus. (This is also known as ADD.) ADHD can also impact other skills, including managing emotions.',
+        'important': 'ADHD is not cause by laziness or lack of discipline.',
+        'trouble areas': ['Paying Attention', 'Self-Control', 'Sitting Still', 'Following Directions', 'Managing Emotions', 'Getting or Staying Organized', 'Remembering Information Long Engough to Use it', 'Shifting Focus'],
+        'accommodation': ['Fidgets and movement breaks to help with things like staying seated and finishing tasks', 'Strategies for coping with anxiety, which is common in people with ADHD', 'Treatments like ADHD medication or behavior therapy']
     },    
     'dyslexia': {
         'disability': 'Dyslexia',
@@ -23,7 +25,7 @@ const learningDisabilities = {
     },
     'unknown': {
         'disability': 'Unknown',     
-        'explanation': 'Unknown',
+        'explanation': 'We apologize, but our database is currently limited and does not include information or accommodations for this at this time.',
         'accommodation': 'Unknown'
     }
 }
