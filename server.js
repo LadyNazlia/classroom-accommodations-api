@@ -1,6 +1,9 @@
+import cors from 'cors';
 const express = require('express')
 const app = express()
 const PORT = 8000
+
+
 
 const learningDisabilities = {
     'adhd': {
