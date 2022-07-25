@@ -22,8 +22,10 @@ const learningDisabilities = {
     },
     'dyscalculia': {
         'disability': 'Dyscalculia',     
-        'explanation': 'n/a',
-        'accommodation': 'Unknown'
+        'explanation': 'Dyscalculia is a learning disability in math. People with have trouble with math at many levels. They often struggle with key concepts like bigger vs. smaller. And they can have a hard time doing basic math problems and more abstract math.',
+        'important': 'Dyscalculia isn’t a problem of intelligence or lack of effort.',
+        'trouble areas': ['Seeing How Numbers Fit Together', 'Counting', 'Calculating', 'Recalling Math Facts Like 2 + 4 = 6', 'Using Concepts Like Less Than', 'Using Symbols Like + and -', 'Telling Left From Right', 'Reading a Clock', 'Working with Dollars and Coins'],
+        'accommodation': ['Blocks, number lines, and other tools to visualize how to solve math problems', 'Extra time for tests and other tasks that involve math', 'Technology like calculators and math apps to help make math easier to navigate']
     },
     'unknown': {
         'disability': 'Unknown',     
