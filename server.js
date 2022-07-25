@@ -15,10 +15,10 @@ const learningDisabilities = {
     },    
     'dyslexia': {
         'disability': 'Dyslexia',
-        'explanation': 'n/a',
-        'important': '',
-        'trouble areas': '',
-        'accommodation': 'Unknown'
+        'explanation': 'Dyslexia is a learning disability in reading. People with dyslexia have trouble reading at a good pace and without mistakes. They may also have a hard time with reading comprehension, spelling, and writing. But these challenges aren’t a problem with intelligence.',
+        'important': 'Dyslexia isn’t a problem of intelligence, laziness, vision, or reading letters backwards.',
+        'trouble areas': ['Sounding Out Written Words', 'Recognizing Common Words in Text', 'Spelling', 'Reading Accurately and Smoothly', 'Writing', 'Rhyming', 'Solving Word Problems in Math', 'Learning a Foreign Language'],
+        'accommodation': ['Step-by-step instructions on the basics of reading, with each concept mastered before moving on', 'Different ways for people to show what they know, like speaking rather than doing a written report', 'Technology like audiobooks and text-to-speech to level the playing field']
     },
     'dyscalculia': {
         'disability': 'Dyscalculia',     
