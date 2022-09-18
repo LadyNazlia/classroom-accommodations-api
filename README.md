@@ -4,6 +4,8 @@ This is an API I am creating that will provide the following information:
 
 <li>Learning disability's name
 <li>Explanations of learning diability
+<li>Important Reminder
+<li>Trouble Areas
 <li>Recommended accommodations for learning disability
 
 This API is free to use through Heroku.
