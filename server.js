@@ -27,6 +27,13 @@ const learningDisabilities = {
         'trouble areas': ['Seeing How Numbers Fit Together', 'Counting', 'Calculating', 'Recalling Math Facts Like 2 + 4 = 6', 'Using Concepts Like Less Than', 'Using Symbols Like + and -', 'Telling Left From Right', 'Reading a Clock', 'Working with Dollars and Coins'],
         'accommodation': ['Blocks, number lines, and other tools to visualize how to solve math problems', 'Extra time for tests and other tasks that involve math', 'Technology like calculators and math apps to help make math easier to navigate']
     },
+    'dysgraphia': {
+        'disability': 'Dysgraphia',     
+        'explanation': 'Dysgraphia is a term that refers to trouble with writing. Many experts view dysgraphia as challenges with a set of skills known as transcription. These skills — handwriting, typing, and spelling — allow us to produce writing.',
+        'important': 'Dysgraphia isn’t a matter of intelligence. The challenges are often caused by trouble with motor skills.',
+        'trouble areas': ['Forming letters', 'Writing grammatically correct sentences', 'Spacing letters correctly', 'Writing in a straight line', 'Holding and controlding a writing tool', 'Writing clearly enough to read back later', 'Writing complete words without skipping letters'],
+        'accommodation': ['Provide pencil grips or different types of pens or pencils', 'Provide handouts so there is less to copy from the board', 'Provide typed copies of classroom notes or lesson outlines to help with note taking', 'Provide extra time to take notes and copy material', 'Allow the student to use an audio recorder or a laptop in class', 'Provide graph paper (or lined paper) to help line up math problems']
+    },
     'unknown': {
         'disability': 'Unknown',     
         'explanation': 'We apologize, but our database is currently limited and does not include information or accommodations for this at this time.',
